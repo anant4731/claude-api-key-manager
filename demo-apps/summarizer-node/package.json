@@ -1,0 +1,15 @@
+{
+  "name": "summarizer-node",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "summarize": "./summarize.mjs"
+  },
+  "scripts": {
+    "start": "node summarize.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.98.0"
+  }
+}

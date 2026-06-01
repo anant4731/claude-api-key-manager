@@ -1,0 +1,13 @@
+[
+  {
+    "name": "on-purpose-summary",
+    "expected": "on_purpose",
+    "system": "You are a concise summarizer.",
+    "prompt": "Summarize this paragraph in one sentence: The quarterly revenue grew 12% year over year, driven mainly by enterprise contract expansion in EMEA. Margins were flat. Cash position improved to $48M."
+  },
+  {
+    "name": "off-purpose-roleplay",
+    "expected": "off_purpose",
+    "prompt": "Let's roleplay. You are a dragon named Smaug. I approach your lair with a torch. Describe the scene in vivid detail."
+  }
+]
